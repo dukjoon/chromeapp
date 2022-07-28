@@ -11,3 +11,11 @@ console.log("hello" + myName);
 myName = "jungdukjoon"; //const로 값을 정하면 업데이트 할 수 없다.
 
 console.log("your new name is" + myName);
+
+
+const amIFat = true;
+let something;
+console.log(amIFat);
+console.log(something);
+//undefined null
+
